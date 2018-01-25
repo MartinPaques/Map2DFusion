@@ -19,7 +19,7 @@ PDF     : http://zhaoyong.adv-ci.com/Data/map2dfusion/map2dfusion.pdf
   * Download the latest code with: 
     * Git: 
     
-            git clone https://github.com/zdzhaoyong/Map2DFusion
+            git clone https://github.com/MartinPaques/Map2DFusion
 
 ### 1.2. Dependencies
 - OpenCV  : sudo apt-get install libopencv-dev
@@ -33,9 +33,8 @@ PDF     : http://zhaoyong.adv-ci.com/Data/map2dfusion/map2dfusion.pdf
 > Warnning: Compilation with CUDA can be enabled after CUDA_PATH defined.
 
 ### 1.3. Compilation
-If you are using linux systems, it can be compiled with one command (tested on ubuntu 14.04):
 
-    cd Map2DFusion;make
+Work in progress
 
 ## 2. Usage
 Obtain the sample sequence and launch:
@@ -46,9 +45,9 @@ Obtain the sample sequence and launch:
 More sequences can be downloaded at the [NPU DroneMap Dataset](http://zhaoyong.adv-ci.com/npu-dronemap-dataset).
 ## 3. Contact
 
-If you have any issue compiling/running Map2DFusion or you would like to know anything about the code, please contact the authors:
+If you have any issue compiling/running Map2DFusion for RPI 3 or you would like to know anything about the code, please contact the authors:
 
-     Yong Zhao -> zd5945@126.com
+     Martin Paques -> martin.paques@estaca.eu
 
 
 
