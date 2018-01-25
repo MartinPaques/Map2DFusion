@@ -1,5 +1,9 @@
-# Map2DFusion
+# Map2DFusion - RPI Version
 ------------------------------------------------------------------------------
+## Disclaimer:
+This project is based on the previous Work on Map2DFusion, but i'm aiming at making a version of this software optimized for a raspberry pi 3.
+
+
 ## Brief Introduction
 This is an open-source implementation of paper:
 Map2DFusion: Real-time Incremental UAV Image Mosaicing based on Monocular SLAM.
