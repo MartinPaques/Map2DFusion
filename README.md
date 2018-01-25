@@ -22,15 +22,12 @@ PDF     : http://zhaoyong.adv-ci.com/Data/map2dfusion/map2dfusion.pdf
             git clone https://github.com/MartinPaques/Map2DFusion
 
 ### 1.2. Dependencies
-- OpenCV  : sudo apt-get install libopencv-dev
+- OpenCV  : sudo apt-get install libopencv-dev (will provide another way to install openCV to boost performances)
 - Qt      : sudo apt-get install build-essential g++ libqt4-core libqt4-dev libqt4-gui qt4-doc qt4-designer
 - QGLViewer : sudo apt-get install libqglviewer-dev libqglviewer2
 - Boost   : sudo apt-get install libboost1.54-all-dev
 - GLEW    : sudo apt-get install libglew-dev libglew1.10
-- GLUT : sudo apt-get install freeglut3 freeglut3-dev
-- CUDA (optional) : see https://developer.nvidia.com/cuda-downloads
-
-> Warnning: Compilation with CUDA can be enabled after CUDA_PATH defined.
+- GLUT : sudo apt-get install freeglut3 freeglut3-dev.
 
 ### 1.3. Compilation
 
